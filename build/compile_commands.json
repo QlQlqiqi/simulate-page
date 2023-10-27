@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/qiqi/simulate-page/build/test",
+  "command": "/usr/bin/c++ -DDISK_PATH=\\\"/home/qiqi/simulate-page/test/disk\\\" -I/home/qiqi/simulate-page/src -I/home/qiqi/simulate-page/src/include -I/home/qiqi/simulate-page/test -I/home/qiqi/simulate-page  -O0 -g -Wall -ggdb  -g -Wall -Wextra -Werror -g -Wno-unused-parameter -Wno-attributes -g -O0 -ggdb -fno-omit-frame-pointer -fno-optimize-sibling-calls -std=gnu++17 -fPIE -o CMakeFiles/kv_test.dir/kv_test.cpp.o -c /home/qiqi/simulate-page/test/kv_test.cpp",
+  "file": "/home/qiqi/simulate-page/test/kv_test.cpp",
+  "output": "test/CMakeFiles/kv_test.dir/kv_test.cpp.o"
+}
+]

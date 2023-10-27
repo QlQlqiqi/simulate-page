@@ -1,0 +1,1 @@
+/usr/bin/c++  -O0 -g -Wall -ggdb  -g -Wall -Wextra -Werror -g -Wno-unused-parameter -Wno-attributes -g -O0 -ggdb -fno-omit-frame-pointer -fno-optimize-sibling-calls CMakeFiles/kv_test.dir/kv_test.cpp.o -o ../bin/kv_test   -L/home/qiqi/simulate-page/src  -L/home/qiqi/simulate-page/test  -L/home/qiqi/simulate-page/src/include  -L/home/qiqi/simulate-page 

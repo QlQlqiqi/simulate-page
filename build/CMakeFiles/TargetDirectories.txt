@@ -1,0 +1,9 @@
+/home/qiqi/simulate-page/build/CMakeFiles/edit_cache.dir
+/home/qiqi/simulate-page/build/CMakeFiles/rebuild_cache.dir
+/home/qiqi/simulate-page/build/src/CMakeFiles/edit_cache.dir
+/home/qiqi/simulate-page/build/src/CMakeFiles/rebuild_cache.dir
+/home/qiqi/simulate-page/build/src/kv/CMakeFiles/edit_cache.dir
+/home/qiqi/simulate-page/build/src/kv/CMakeFiles/rebuild_cache.dir
+/home/qiqi/simulate-page/build/test/CMakeFiles/kv_test.dir
+/home/qiqi/simulate-page/build/test/CMakeFiles/edit_cache.dir
+/home/qiqi/simulate-page/build/test/CMakeFiles/rebuild_cache.dir
